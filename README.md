@@ -1,4 +1,3 @@
-[readme_recode_android.md](https://github.com/user-attachments/files/34818600/readme_recode_android.md)
 <div align="center">
   <h1>RE<span style="color:#FF1111;">:</span>code</h1>
   <p><strong>Автономный мобильный ИИ-клиент для вайб-кодинга на Android</strong></p>
