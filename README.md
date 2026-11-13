@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>RE<span style="color:#FF1111;">:</span>code</h1>
+  <h1>Re<span style="color:#FF1111;">:</span>Code</h1>
   <p><strong>Автономный мобильный ИИ-клиент для вайб-кодинга на Android</strong></p>
 
   <p>
@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/Language-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
     <img src="https://img.shields.io/badge/UI-Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
     <a href="https://github.com/anxtyy/recode-for-android/releases">
-      <img src="https://img.shields.io/github/v/release/anxtyy/recode-android?style=for-the-badge&color=FF2A2A&label=Download%20APK" alt="Download APK" />
+      <img src="https://img.shields.io/github/v/release/anxtyy/recode-for-android?style=for-the-badge&color=FF2A2A&label=Download%20APK" alt="Download APK" />
     </a>
   </p>
 </div>
